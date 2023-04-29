@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_flashlight_application">
+    package="com.ab.logic.flashlight">
+
    <application
-        android:label="flutter_flashlight_application"
+        android:label="Flashlight"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

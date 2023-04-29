@@ -1,4 +1,4 @@
-package com.example.flutter_flashlight_application
+package com.ab.logic.flashlight
 
 import io.flutter.embedding.android.FlutterActivity
 
